@@ -63,7 +63,7 @@ class _JankenPageState extends State<JankenPage> {
     }
   }
 
-//UI
+//UIコード
   @override
   Widget build(BuildContext context) {
     return Scaffold(
