@@ -68,7 +68,7 @@ class _JankenPageState extends State<JankenPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('じゃんけん'),
+        title: const Text('ジャンケン'),
       ),
       body: Center(
         child: Column(
